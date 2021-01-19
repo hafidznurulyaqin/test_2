@@ -131,5 +131,7 @@ SQL Query
 </font>
 
 
-<p>Above query is using too many Wildcards. Its better to not use wildcards and better to use the equal if the value is fix.</p>
-
+<ul>
+  <li>Above query is using too many Wildcards. Its better to not use wildcards and better to use the equal if the value is fix.</li>
+  <li>Above query also have a lot of join and constraint on the join table. </li>
+</ul>
